@@ -19,32 +19,32 @@ F.	개발 결과물의 필요성 및 활용방안
 회원가입  
 ![2](https://user-images.githubusercontent.com/74765691/101969539-26ca7580-3c68-11eb-87cf-b31e428a48b0.JPG)
 
-회원가입을 한 후 데이터 파일들
+회원가입을 한 후 데이터 파일들  
 ![4_1](https://user-images.githubusercontent.com/74765691/101969543-27fba280-3c68-11eb-87eb-b3c4b978a55b.JPG)
 ![4_2](https://user-images.githubusercontent.com/74765691/101969544-27fba280-3c68-11eb-94a8-25437ac38318.JPG)
 ![4_3](https://user-images.githubusercontent.com/74765691/101969546-28943900-3c68-11eb-962c-53c31bf5f99a.JPG)
 
-친구추가
+친구추가  
 ![5](https://user-images.githubusercontent.com/74765691/101969547-292ccf80-3c68-11eb-9e35-c7b29d8ac53e.JPG)
 
-친구목록
+친구목록  
 ![7_1](https://user-images.githubusercontent.com/74765691/101969530-2336ee80-3c68-11eb-8922-8eff7b9f19d4.JPG)
 
-대화방 만들기
+대화방 만들기  
 ![7_2](https://user-images.githubusercontent.com/74765691/101969531-24681b80-3c68-11eb-881e-2f8b54fc36a4.JPG)
 
-대화방 만든 후 여태까지 만들어진 데이터 파일들
+대화방 만든 후 여태까지 만들어진 데이터 파일들  
 ![8](https://user-images.githubusercontent.com/74765691/101969532-24681b80-3c68-11eb-9757-dc72894c980b.JPG)
 
-간단한 대화
+간단한 대화  
 ![9](https://user-images.githubusercontent.com/74765691/101969533-2500b200-3c68-11eb-8605-e1f679521c37.JPG)
 
-이모티콘 리스트
+이모티콘 리스트  
 ![10](https://user-images.githubusercontent.com/74765691/101969534-25994880-3c68-11eb-9841-e5dabf9805a7.JPG)
 ![11](https://user-images.githubusercontent.com/74765691/101969535-25994880-3c68-11eb-8447-89d162d263b1.JPG)
 
-대화중 이모티콘 받음
+대화중 이모티콘 받음  
 ![12](https://user-images.githubusercontent.com/74765691/101969536-2631df00-3c68-11eb-8f09-aefe490180ba.JPG)
 
-이모티콘 보냄
+이모티콘 보냄  
 ![13](https://user-images.githubusercontent.com/74765691/101969537-2631df00-3c68-11eb-9122-e5d76eebf31c.JPG)
